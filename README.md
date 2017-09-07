@@ -76,3 +76,5 @@ The complete documentation for Protocol Buffers is available via the
 web at:
 
 https://developers.google.com/protocol-buffers/
+
+This is test comment from scottzhu for pull request testing.
