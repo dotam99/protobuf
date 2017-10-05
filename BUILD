@@ -1,4 +1,5 @@
 # Bazel (http://bazel.io/) BUILD file for Protobuf.
+# presubmit_branch_regex test
 
 licenses(["notice"])
 
