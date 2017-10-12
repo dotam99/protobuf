@@ -1,5 +1,5 @@
 setlocal
-
+sdfa
 IF %language%==cpp GOTO build_cpp
 IF %language%==csharp GOTO build_csharp
 
