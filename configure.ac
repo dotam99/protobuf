@@ -1,5 +1,5 @@
 ## Process this file with autoconf to produce configure.
-## In general, the safest way to proceed is to run ./autogen.sh
+## In general, the safest way to proceed is to run ./autogen.sh sfd
 
 AC_PREREQ(2.59)
 
